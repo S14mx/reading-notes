@@ -1,6 +1,6 @@
 # Table of contents
 
-- [*Day 1 assignment*](https://github.com/S14mx/reading-notes#day-1-assignment)
+- [*Day 1 assignment*](#Day-1-assignment)
 - *Day 2 assignment*
 - *Day 3 assignment*
 - *Day 4 assignment*
