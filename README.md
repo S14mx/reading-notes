@@ -15,4 +15,4 @@
 - *Day 13 assignment*
 - *Day 14 assignment*
 - *Day 15 assignment*
-- _*Code 102 Reading assignments(old)*_
+- *Code 102 Reading assignments(old)*
