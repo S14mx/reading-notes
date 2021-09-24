@@ -26,3 +26,5 @@ The contents of the `<title>` element are either shown in the top of the browser
     </body>
 </html>
 ```
+
+### [_Go back to main page_](README.md)
