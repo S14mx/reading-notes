@@ -18,5 +18,6 @@
 - [_Code 102 Reading assignments(old)_](https://github.com/S14mx/reading-notes#code-102-reading-assignmentsold)
 
 ## Day 1 assignment
-
+Sample text
 ### Code 102 Reading assignments(old)
+Sample text
