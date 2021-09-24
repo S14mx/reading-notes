@@ -1,6 +1,6 @@
 # Table of contents
 
-- [*Day 1 assignment*](#Day-1-assignment)
+- [*Day 1 assignment*](class-01.md)
 - *Day 2 assignment*
 - *Day 3 assignment*
 - *Day 4 assignment*
@@ -15,9 +15,4 @@
 - *Day 13 assignment*
 - *Day 14 assignment*
 - *Day 15 assignment*
-- [_Code 102 Reading assignments(old)_](#Code-102-Reading-assignments(old))
-
-## Day 1 assignment
-Sample text
-### Code 102 Reading assignments(old)
-Sample text
+- *_Code 102 Reading assignments(old)_*
