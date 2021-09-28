@@ -1,7 +1,7 @@
 # Table of contents
 
 - [*Day 1 assignment*](class-01.md)
-- *Day 2 assignment*
+- [*Day 2 assignment*](class-02.md)
 - *Day 3 assignment*
 - *Day 4 assignment*
 - *Day 5 assignment*
