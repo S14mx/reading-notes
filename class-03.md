@@ -4,7 +4,7 @@
 
 ---
 
-### Here, the variable named level is the switch value. If the value of the l eve 1 variable is the string One, then the code for the first case is executed. If it is Two, the second case is executed. If it is Three, the third case is executed. If it is none of these, the code for the defaul t case is executed
+### Here, the variable named level is the switch value. If the value of the level variable is the string One, then the code for the first case is executed. If it is Two, the second case is executed. If it is Three, the third case is executed. If it is none of these, the code for the default case is executed
 
 ---
 
@@ -61,18 +61,18 @@ el.textContent = msg;
 
 In this example, the purpose of the *switch* statement is to present the user with a different message depending on which level they are at. The message is stored in a variable called msg.
 
-The variable called *level* contains a number indicating which level the user is on. This is then used as the switch value. (The switch value could also be an expression.)
+The variable called *level* contains a number indicating which level the user is on. This is then used as the switch value. (The switch value could also be an expression.).
 
 In the following code block (inside the curly braces), there are three options for what the value of the *level* variable might be: the numbers 1, 2, or 3.
 
 If the value of the *level* variable is the number 1, the value of the msg variable is set to 'Good luck
 on the first test'.
 
-If the value is 2, it will read: 'Second of three - keep going!'
+If the value is 2, it will read: 'Second of three - keep going!'.
 
-If the value is 3, the message will read: 'Final round, almost there!'
+If the value is 3, the message will read: 'Final round, almost there!'.
 
-If no match is found, then the value of the msg variable is set to 'Good luck! '
+If no match is found, then the value of the msg variable is set to 'Good luck!'.
 
 Each case ends with the break keyword which will tell the JavaScript interpreter to skip the rest of this code block and continue onto the next.
 
