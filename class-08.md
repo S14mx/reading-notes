@@ -30,6 +30,7 @@ margin: 5px;
 padding: 5px;
 background-color: #efefef;}
 ```
+![result pic](https://raw.githubusercontent.com/S14mx/reading-notes/main/pics/book%20screen2.png)
 ### *From HTML & CSS: Design and Build Websites by Jon Duckett; ISBN*978-1-118-00818-8
 
 ### [_Go back to main page_](README.md)
