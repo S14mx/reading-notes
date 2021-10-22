@@ -12,15 +12,15 @@ a variable called el Username.
 ``` JavaScript
 
 function checkUsername() {                         // Declare function 
-var elMsg = document .get ElementByld('feedback');  // Get feedback element 
-i f (t hi s.value.lengt h< 5) {                     // If username too short  
-elMsg .textContent 'Username must be 5 characters or more'; // Set msg
+var elMsg = document.getElementByld('feedback');  // Get feedback element 
+if (this.value.length < 5) {                     // If username too short  
+elMsg.textContent = 'Username must be 5 characters or more'; // Set msg
 } else {                                              // Otherwise 
-el Msg .textContent = '';                            // Clear msg 
+elMsg.textContent = '';                            // Clear msg 
   }
 }
 
-var elUsername = document.get El ementByld('username') ; // Get username input 
+var elUsername = document.getElementByld('username') ; // Get username input 
 // When it loses focus call checkUsername() 
 elUsername.addEventlistener('blur', checkUsername, false) ; 
 
