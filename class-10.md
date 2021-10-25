@@ -34,4 +34,8 @@ $form.append('<p> ' + area + '<I p>');
 
 ```
 
-![result pic](https://raw.githubusercontent.com/S14mx/reading-notes/main/pics/book%20screen2.png)
+![result pic](https://raw.githubusercontent.com/S14mx/reading-notes/main/pics/screenclass10.png)
+
+### *From JavaScript & jQuery: Interactive Front-End Web Development by Jon Duckett; ISBN 978-1-118-53164-8*
+
+### [_Go back to main page_](README.md)
