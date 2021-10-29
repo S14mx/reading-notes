@@ -48,10 +48,20 @@ background-position: -175px -80px;}
 
 ```
 
+![result pic](https://raw.githubusercontent.com/S14mx/reading-notes/main/pics/class11.png)
 
+In this example, you can see two links that look like buttons. Each 
+of the buttons has three different states. These are all represented in a single image.
 
+Because the `<a>` element is an inline element, we set the display property of these links to indicate that they should be inline-block elements. This allows us to specify the width and height of each `<a>` element so that it matches the size of its corresponding button.
 
+The background-positionproperty is used to move the image in order to show the button in the right state.
 
+When the user hovers over a link, the :hover pseudo-class has a rule that moves the background-position of the image to show a different state for that button.
+
+Similarly, when the user clicks on the link, the :active pseudoclass has a rule to show the third state for that button.
+
+Touch screen devices will not change a link's state when the user hovers over it, as the screens do not yet have a way to tell when the user is hovering. However, they will change their appearance when the user activates them.
 
 ### *From HTML & CSS: Design and Build Websites by Jon Duckett; ISBN*978-1-118-00818-8
 
