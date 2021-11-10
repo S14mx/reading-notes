@@ -13,6 +13,7 @@
 - [*Day 11 assignment*](class-11.md)
 - [*Day 12 assignment*](class-12.md)
 - [*Day 13 assignment*](class-13.md)
-- *Day 14 assignment*
+- [*Day 14a assignment*](class-14a.md)
+- [*Day 14b assignment*](class-14b.md)
 - *Day 15 assignment*
 - *Code 102 Reading assignments(old)*
