@@ -1,3 +1,4 @@
 # Table of contents
 
-- [*Day 1 assignment*](class-01.md)
+- [*Code 201 Reading Notes*](./201/README.md)
+- [*Code 301 Reading Notes*](./301/README.md)
