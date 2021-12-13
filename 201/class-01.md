@@ -1,58 +1,30 @@
 # Day 1 assignment
 
-## What is a "component'?
+## Body, Head and Title elements in HTML
 
-A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
+### `<body>` Element
 
-A component is a software object, intended to interact with other components, encapsulating certain functionality or a set of functionalities. It has an obviously defined interface and conforms to a recommended behavior common to all components within an architecture.
+You might have seen `<body>` element before. Everything inside this element is shown inside the main browser window.
 
-A software component can be defined as a unit of composition with a contractually specified interface and explicit context dependencies only. That is, a software component can be deployed independently and is subject to composition by third parties.
+### `<head>` Element
 
-## What are the charactistics of a component?
+Before the `<body>` element you will often see a `<head>` element. This contains information _about_ the page (rather than information that is shown within the main part of the browser window). You will usually find a `<title>` element inside the `<head>` element.
+Anything written between the `<title>`tags will appear in the title bar (or tabs) at the top of the browser window.
 
-*Reusability* − Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
+### `<title>` Element
 
-*Replaceable* − Components may be freely substituted with other similar components.
+The contents of the `<title>` element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page (if your browser uses tabs to allow you to view multiple pages at the same time).
 
-*Not context specific* − Components are designed to operate in different environments and contexts.
-
-*Extensible* − A component can be extended from existing components to provide new behavior.
-
-*Encapsulated* − A A component depicts the interfaces, which allow the caller to use its functionality, and do not expose details of the internal processes or any internal variables or state.
-
-*Independent* − Components are designed to have minimal dependencies on other components.
-
-## What are the advantages of using component-based architecture?
-
-*Ease of deployment* − As new compatible versions become available, it is easier to replace existing versions with no impact on the other components or the system as a whole.
-
-*Reduced cost* − The use of third-party components allows you to spread the cost of development and maintenance.
-
-*Ease of development* − Components implement well-known interfaces to provide defined functionality, allowing development without impacting other parts of the system.
-
-*Reusable* − The use of reusable components means that they can be used to spread the development and maintenance cost across several applications or systems.
-
-*Modification of technical complexity* − A component modifies the complexity through the use of a component container and its services.
-
-*Reliability* − The overall system reliability increases since the reliability of each individual component enhances the reliability of the whole system via reuse.
-
-*System maintenance and evolution* − Easy to change and update the implementation without affecting the rest of the system.
-
-*Independent* − Independency and flexible connectivity of components. Independent development of components by different group in parallel. Productivity for the software development and future software development.
-
-## What is “props” short for?
-
-“Props” is a special keyword in React, which stands for properties and is being used for passing data from one component to another.
-
-## How are props used in React?
-
-They are used for passing data from one component to another:  
-Firstly, we need to define an attribute and it's value(data).  
-Then we need to pass it to child component(s) by using Props.  
-Finally, need to render Props Data.
-
-## What is the flow of props?
-
-Data with Props is passed in uni-directional flow, which means it can only be passed one way from parent to child. Furthermore, props data is read-only, which means that data coming from the parent should not be changed by child components.
+```html
+<html>
+    <head>
+        <title>This is the Title of the Page</title>
+    </head>
+    <body>
+        <h1>This is the Body of the Page</h1>
+        <p>Anything within the body of a web page is displayed in the main browser window.</p>
+    </body>
+</html>
+```
 
 ### [_Go back to main page_](README.md)
