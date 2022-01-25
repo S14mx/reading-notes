@@ -12,5 +12,6 @@
 - [*Day 10 assignment*](301class-10.md)
 - [*Day 11 assignment*](301class-11.md)
 - [*Day 12 assignment*](301class-12.md)
+- [*Day 13 assignment*](301class-13.md)
 
 ## [_Go back to main page_](../README.md)
