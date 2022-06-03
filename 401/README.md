@@ -7,5 +7,6 @@
 - [*Class 3*](../401/401class-03.md)
 - [*Class 4*](../401/401class-04.md)
 - [*Class 5*](../401/401class-05.md)
+- [*Class 6*](../401/401class-06.md)
 
 ## [*Go back to main page*](../README.md)
