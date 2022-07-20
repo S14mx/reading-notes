@@ -19,5 +19,6 @@
 - [*Class 15 - Trees cheat sheet*](../401/401class-15.md)
 - [*Class 16 - Serverless Functions*](../401/401class-16.md)
 - [*Class 17 - Web Scraping*](../401/401class-17.md)
+- [*Class 18 - Cryptography*](../401/401class-18.md)
 
 ## [*Go back to main page*](../README.md)
