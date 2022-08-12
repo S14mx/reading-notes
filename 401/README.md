@@ -22,5 +22,6 @@
 - [*Class 18 - Cryptography*](../401/401class-18.md)
 - [*Class 19 - Automation (Regex)*](../401/401class-19.md)
 - [*Class 26 - Intro to Django*](../401/401class-26.md)
+- [*Class 27 - Django Models*](../401/401class-27.md)
 
 ## [*Go back to main page*](../README.md)
