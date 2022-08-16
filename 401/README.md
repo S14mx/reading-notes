@@ -23,5 +23,6 @@
 - [*Class 19 - Automation (Regex)*](../401/401class-19.md)
 - [*Class 26 - Intro to Django*](../401/401class-26.md)
 - [*Class 27 - Django Models*](../401/401class-27.md)
+- [*Class 28 - Django CRUD and Forms*](../401/401class-28.md)
 
 ## [*Go back to main page*](../README.md)
