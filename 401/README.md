@@ -25,5 +25,6 @@
 - [*Class 27 - Django Models*](../401/401class-27.md)
 - [*Class 28 - Django CRUD and Forms*](../401/401class-28.md)
 - [*Class 29 - Django Custom User/DjangoX*](../401/401class-29.md)
+- [*Class 30 - Hash Tables*](../401/401class-30.md)
 
 ## [*Go back to main page*](../README.md)
