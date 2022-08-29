@@ -27,5 +27,6 @@
 - [*Class 29 - Django Custom User/DjangoX*](../401/401class-29.md)
 - [*Class 30 - Hash Tables*](../401/401class-30.md)
 - [*Class 31 - Django REST Framework & Docker*](../401/401class-31.md)
+- [*Class 32 - Permissions & Postgresql*](../401/401class-31.md)
 
 ## [*Go back to main page*](../README.md)
