@@ -28,6 +28,6 @@
 - [*Class 30 - Hash Tables*](../401/401class-30.md)
 - [*Class 31 - Django REST Framework & Docker*](../401/401class-31.md)
 - [*Class 32 - Permissions & Postgresql*](../401/401class-32.md)
-- [*Class 32 - Authentication & Production Server*](../401/401class-33.md)
+- [*Class 33 - Authentication & Production Server*](../401/401class-33.md)
 
 ## [*Go back to main page*](../README.md)
