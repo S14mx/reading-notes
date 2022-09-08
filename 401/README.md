@@ -29,5 +29,6 @@
 - [*Class 31 - Django REST Framework & Docker*](../401/401class-31.md)
 - [*Class 32 - Permissions & Postgresql*](../401/401class-32.md)
 - [*Class 33 - Authentication & Production Server*](../401/401class-33.md)
+- [*Class 34 - API Deployment*](../401/401class-34.md)
 
 ## [*Go back to main page*](../README.md)
