@@ -31,5 +31,6 @@
 - [*Class 33 - Authentication & Production Server*](../401/401class-33.md)
 - [*Class 34 - API Deployment*](../401/401class-34.md)
 - [*Class 35 - Graphs*](../401/401class-35.md)
+- [*Class 36 - DSA Review*](../401/401class-36.md)
 
 ## [*Go back to main page*](../README.md)
