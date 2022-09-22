@@ -33,5 +33,6 @@
 - [*Class 35 - Graphs*](../401/401class-35.md)
 - [*Class 36 - DSA Review*](../401/401class-36.md)
 - [*Class 37 - React 1*](../401/401class-37.md)
+- [*Class 38 - React 2*](../401/401class-38.md)
 
 ## [*Go back to main page*](../README.md)
