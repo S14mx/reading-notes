@@ -35,6 +35,7 @@
 - [*Class 37 - React 1*](../401/401class-37.md)
 - [*Class 38 - React 2*](../401/401class-38.md)
 - [*Class 39 - React 3*](../401/401class-39.md)
-- [*Class 40 - React 4*](../401/401class-40.md)
+- [*Class 41 - React 4*](../401/401class-41.md)
+- [*Class 42 - Pythonisms*](../401/401class-42.md)
 
 ## [*Go back to main page*](../README.md)
