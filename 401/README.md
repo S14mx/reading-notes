@@ -37,5 +37,7 @@
 - [*Class 39 - React 3*](../401/401class-39.md)
 - [*Class 41 - React 4*](../401/401class-41.md)
 - [*Class 42 - Pythonisms*](../401/401class-42.md)
+- [*Class 43 - Ethics in Tech*](../401/401class-43-1.md)
+- [*Class 43 - Open-Source Software Contribution*](../401/401class-43.md)
 
 ## [*Go back to main page*](../README.md)
