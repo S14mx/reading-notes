@@ -10,7 +10,7 @@
 - [*Class 6 - Random module and risk analysis*](../401/401class-06.md)
 - [*Class 7 - global and nonlocal*](../401/401class-07.md)
 - [*Class 8 - List Comprehension*](../401/401class-08.md)
-- [*Class 9 - Dunder Methods*](../401/401class-09.md)
+- [*Class 9 - __Dunder__ Methods*](../401/401class-09.md)
 - [*Class 10 - Stacks and Queues cheat sheet*](../401/401class-10.md)
 - [*Class 11 - Jupyter Lab and NumPy*](../401/401class-11.md)
 - [*Class 12 - Pandas*](../401/401class-12.md)
